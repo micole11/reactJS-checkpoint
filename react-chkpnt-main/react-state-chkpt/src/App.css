@@ -1,0 +1,38 @@
+.AppDiv{
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  border: 2px solid black;
+  width: 60%;
+  background-color: darkgray;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+.img{
+  width: 50%;
+}
+
+.imageDiv{
+  display: flex;
+  justify-content: center;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+.btnDiv{
+  text-align: center;
+  margin: 10px;
+}
+
+button{
+  background-color:aliceblue;
+  border: none;
+  border-radius: 5px;
+  width: 10%;
+}
